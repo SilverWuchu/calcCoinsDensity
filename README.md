@@ -7,7 +7,7 @@
   1.1- 如果使用Windows，你可以下載DevC++ 5.11這個玩具IDE，在這個IDE中，你可以進行soft的執行<br>
   1.2- 如果是Mac，那就已經損失了我為非developer做這個所見即所得的簡單soft的初衷了 （你當然可以運行g++來編譯）<br><br>
 
-2- 你可以把你的任意coin信息填在densityCalc.in中（如同給的三個樣例）<br><br>
+2- 你可以把你的任意coin信息填在densityCalc.in中（如同給的多個樣例）<br><br>
 
 3- 在DevC++中，按下F11運行<br>
   3.1 如果結果接近10，或最少超過9.2，那麽基本上是銀幣<br>
