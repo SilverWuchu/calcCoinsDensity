@@ -1,1 +1,1 @@
-# calcCoinsDensity
+# calcDensityCoin
